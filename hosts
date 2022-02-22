@@ -1,1 +1,2 @@
-172.31.81.68 ansible_ssh_user=root ansible_ssh_password=redhat
+#172.31.81.68 ansible_ssh_user=root ansible_ssh_password=redhat
+172.31.80.251 ansible_ssh_user=root ansible_ssh_password=redhat
