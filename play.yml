@@ -1,5 +1,7 @@
 - name: Installs a package and prints the result
   hosts: all
+  environment:
+    ANSIBLE_HOST_KEY_CHECKING: false
   tasks:
   - name: Install the package
     yum:
