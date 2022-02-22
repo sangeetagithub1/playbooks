@@ -1,0 +1,8 @@
+172.31.80.251 | SUCCESS => {
+    "ansible_facts": {
+        "ansible_kernel": "4.18.0-305.el8.x86_64",
+        "ansible_kernel_version": "#1 SMP Thu Apr 29 08:54:30 EDT 2021",
+        "discovered_interpreter_python": "/usr/libexec/platform-python"
+    },
+    "changed": false
+}
